@@ -1,0 +1,6 @@
+{
+  "name": "Russ",
+  "email": "grfdfdxxxxfggfhfhtrhtr@gmail.com",
+  "gender": "male",
+  "status": "Active"
+}
